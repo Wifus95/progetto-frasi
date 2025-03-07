@@ -38,6 +38,11 @@
           },
           "configurations": {
             "production": {
+              "buildOptimizer": true,
+              "optimization": true,
+              "sourceMap": false,
+              "outputHashing": "all",
+              "extractLicenses": true,
               "budgets": [
                 {
                   "type": "initial",
@@ -55,7 +60,7 @@
             "development": {
               "optimization": false,
               "extractLicenses": false,
-              "sourceMap": true
+              "sourceMap": false
             }
           },
           "defaultConfiguration": "production"

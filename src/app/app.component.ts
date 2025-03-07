@@ -73,7 +73,10 @@ export class AppComponent {
     "Apolide rinnegato retrocesso come la tua reputazione",
     "Posa il fiasco",
     "Gruppo morto?",
-    "Oggi in ferie che non si scrive niente?"
+    "Oggi in ferie che non si scrive niente?",
+    "Le mummie",
+    "Ormai tonali è infermabile",
+    "Ennesimo regalino?"
   ];
 
   // Frase da visualizzare
